@@ -129,7 +129,7 @@ This section will be updated after receiving peer review feedback.
 
 | Member Name | GitHub Profile Link | PrepTrack Repository Link | Submission Status |
 |-------------|---------------------|---------------------------|-------------------|
-| Akhila | https://github.com/akhila-epparla | https://github.com/akhila-epparla/preptrack-Akhila | Completed |
+|E.Akhila | https://github.com/akhila-epparla | https://github.com/akhila-epparla/preptrack-Akhila | ✅Completed |
 | Member 2 | Pending | Pending | Pending |
 | Member 3 | Pending | Pending | Pending |
 | Member 4 | Pending | Pending | Pending |
