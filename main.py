@@ -1,6 +1,6 @@
-print("==================================================")
+print("="*50)
 print("              PREPTRACK APPLICATION                ")
-print("==================================================")
+print("="*50)
 while True:
     Student_Name=input("Enter Student Name: ")
     if Student_Name!="":
