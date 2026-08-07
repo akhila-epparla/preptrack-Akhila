@@ -136,3 +136,5 @@ This section will be updated after receiving peer review feedback.
 | B.Hrudayananda Reddy | https://github.com/Hrudayananda  | https://github.com/Hrudayananda/pretrack-hrudayananda |✅Completed  |
 | G.Sreekar Reddy| https://github.com/GSreekarReddy11 | https://github.com/GSreekarReddy11/preptrack-sreekar |✅Completed  | 
 | C.Vaishnavi| https://github.com/cbvaishnavi50-boop | https://github.com/cbvaishnavi50-boop/preptrack-vaishnavi |✅Completed  | 
+| Yusuf| https://github.com/vyusuf771 | https://github.com/vyusuf771/preptrack-yusuf |✅Completed  | 
+| GN.Manoj| https://github.com/manojgn69-lgtm | https://github.com/manojgn69-lgtm/preptrack-manoj |✅Completed  | 
