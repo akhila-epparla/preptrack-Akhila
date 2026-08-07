@@ -130,7 +130,7 @@ This section will be updated after receiving peer review feedback.
 | Member Name | GitHub Profile Link | PrepTrack Repository Link | Submission Status |
 |-------------|---------------------|---------------------------|-------------------|
 |E.Akhila | https://github.com/akhila-epparla | https://github.com/akhila-epparla/preptrack-Akhila | ✅Completed |
-| Member 2 | Pending | Pending | Pending |
-| Member 3 | Pending | Pending | Pending |
+|P.Harshitha | https://github.com/harshithapunuri18 | https://github.com/harshithapunuri18/preptrack-harshitha | ✅Completed |
+| V.Chandana | https://github.com/vemuri514| https://github.com/vemuri514/preptrack-chandana.git | ✅Completed |
 | Member 4 | Pending | Pending | Pending |
 | Member 5 | Pending | Pending | Pending |
