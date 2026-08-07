@@ -132,5 +132,7 @@ This section will be updated after receiving peer review feedback.
 |E.Akhila | https://github.com/akhila-epparla | https://github.com/akhila-epparla/preptrack-Akhila | ✅Completed |
 |P.Harshitha | https://github.com/harshithapunuri18 | https://github.com/harshithapunuri18/preptrack-harshitha | ✅Completed |
 | V.Chandana | https://github.com/vemuri514| https://github.com/vemuri514/preptrack-chandana.git | ✅Completed |
-| Member 4 | Pending | Pending | Pending |
-| Member 5 | Pending | Pending | Pending |
+| G.Chanakya | https://github.com/chan-g-dev | https://github.com/chan-g-dev/preptrack-chanakya | ✅Completed |
+| G.B.Hrudayananda Reddy | https://github.com/Hrudayananda  | https://github.com/Hrudayananda/pretrack-hrudayananda |✅Completed  |
+| G.Sreekar Reddy| https://github.com/GSreekarReddy11 | https://github.com/GSreekarReddy11/preptrack-sreekar |✅Completed  | 
+| C.Vaishnavi| https://github.com/cbvaishnavi50-boop | https://github.com/cbvaishnavi50-boop/preptrack-vaishnavi |✅Completed  | 
